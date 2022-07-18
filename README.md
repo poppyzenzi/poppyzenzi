@@ -12,8 +12,6 @@ Currently: Research associate in autism and educational research to improve qual
 
 MSc Neuroscience - distinction
 - Neuroimaging study of the neural correlates of autonomic prediction error as a mediator of the over-representation of anxiety in joint hypermobility
-- Presented at the American Psychosomatic Society Annual Meeting in Long Beach, CA 2022
-
 
 BSc Biology - 1:1
 
