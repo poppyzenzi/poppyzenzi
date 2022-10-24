@@ -1,13 +1,13 @@
 **Poppy Zenzi Grimes**
 
-From 09.22: PhD @ University of Edinburgh characterising adolescent mental health trajectories. Combining longitudinal cohort data from
+PhD @ University of Edinburgh characterising adolescent mental health trajectories. Combining longitudinal cohort data from
 **genetic** (PRS + epigenetics + methylation), **neuroimaging** (neurocognitive changes + profiles), **biomarker** (inflammation) and **environmental risk factors** using computational approaches.
 
 - Identification of different symptom trajectories within conditions using *multilevel growth curves* and *growth mixture models*
 - Evaluation using *prediction models* and *machine learning* to inform treatment opportunities in **precision psychiatry**
-- Collaboration with University of Glasgow and Karolinska Institute
+- Collaboration with University of Glasgow and Karolinska Institute, Stockholm
 
-Currently: Research associate in autism and educational research to improve quality-of-life, working with a registered CIO/school and wider network including the National Autistic Society
+Research associate in autism and educational research to improve quality-of-life, working with a registered CIO/school and wider network including the National Autistic Society. Presenting practice-based research at international conferences (Krakow, Dubai, Sweden)
 
 
 MSc Neuroscience - distinction
