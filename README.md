@@ -1,6 +1,6 @@
 **Poppy Zenzi Grimes**
 
-PhD @ University of Edinburgh characterising adolescent mental health trajectories. Building predictive models of adolescent mental health trajectory by combining longitudinal datasets including **genetic** (PRS + epigenetics + methylation), **neuroimaging** (neurocognitive changes + profiles), **biomarker** (inflammation) and **environmental risk factors**.
+Precision Medicine PhD @ University of Edinburgh. Building predictive models of adolescent mental health trajectories by combining longitudinal datasets including **genetic** (PRS + epigenetics + methylation), **neuroimaging** (neurocognitive changes + profiles), **biomarker** (inflammation) and **environmental risk factors**.
 
 
 - Identification of different symptom trajectories within conditions using *multilevel growth curves* and *growth mixture models*
@@ -16,7 +16,6 @@ MSc Neuroscience - distinction
 BSc Biology - 1:1
 
 
-Currently working in R and python
 
 <!---
 poppyzenzi/poppyzenzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
