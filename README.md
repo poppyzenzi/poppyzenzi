@@ -1,5 +1,4 @@
-Final year PhD student - population genetics and symptom networks in adolescent depression.
-
+PhD candidate - statistical geneticist
 
 <!---
 poppyzenzi/poppyzenzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
