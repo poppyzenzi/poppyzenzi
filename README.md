@@ -1,4 +1,4 @@
-Research officer @ QIMR - statistical genetics / psychiatric epidemiology / longitudinal modelling / network analysis
+Postdoctoral research officer @ QIMR - statistical geneticist investigating complex traits
 
 <!---
 poppyzenzi/poppyzenzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
